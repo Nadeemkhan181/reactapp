@@ -472,7 +472,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 </div>
 
 <div className="portlet-content">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+Lorem ipsum dolor sit consectetuer adipiscing elit
 </div>
 
 
